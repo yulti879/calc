@@ -1,0 +1,16 @@
+body {
+    background-color: goldenrod;
+}
+
+h1 {
+    font-family:  Helvetica, sans-serif;    
+}
+
+p {
+    font-family:  Helvetica, sans-serif;
+    font-size: 20px;    
+}
+
+.meow {
+    font-style: italic;
+}
